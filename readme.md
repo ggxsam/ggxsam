@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Next.js+Developer;Loves+Clean+UI+%26+UX;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Loves+Clean+UI+%26+UX;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
 ﻿
