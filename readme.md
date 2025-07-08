@@ -1,12 +1,6 @@
 Samira
 samira3223
 Idle
-
-rabin — 6/29/2025 8:48 PM
-Attachment file type: archive
-servertask.zip
-9.73 MB
-rabin — 6:54 PM
 <h1 align="center">Hi 👋, I'm Samira Gurung</h1>
 <h3 align="center">Frontend Developer</h3>
 
