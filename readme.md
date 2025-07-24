@@ -52,8 +52,4 @@
   <a href="https://github.com/ggxsam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a
 </p>
 
----
 
-> 💡 *"Crafting powerful digital experiences, one line of code at a time."*
-message.txt
-4 KB
